@@ -9,20 +9,20 @@ title: DREAM Project Site
 ## About Me
 **Name:** Josh Kung
 
-**Education:** MS in Computer Science (Machine Learning track), Columbia University Spring 2027. BS in Business, USC Marshall School of Business Spring 2024.
+**Education:** Columbia University '27, MS in Computer Science (Machine Learning track). University of Southern California '24, BS in Business Administration. 
 
-**Email:** joshua.kung@columbia.edu
+**(w)Email:** joshua.kung@columbia.edu
 
-**Personal Email:** jhkung1@gmail.com
+**(p)Email:** jhkung1@gmail.com
 
 **Personal website:** [joshuakung.com](https://joshuakung.com)
 
 ## About My Advisor
-**Name:** Prof. Lydia Chilton
+**Name:** Professor Lydia B. Chilton
 
-**School/Department:** Columbia University, Department of Computer Science
+**School/Department:** Columbia University, Associate Professor of Computer Science 
 
-**Research Area:** Human-Computer Interaction, Computational Design, AI+design — building AI tools that enhance people's design, innovation, and creative problem-solving
+**Research Area:** Professor Chilton's area of study is in Human-Computer Interaction. Her research is in AI+design - how AI can help people with design, innovation, and creative problem-solving.
 
 **Website:** [Lydia Chilton's homepage](https://www.cs.columbia.edu/~chilton/chilton.html)
 
