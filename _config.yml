@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Josh Kung
 
 # Short bio or description (displayed in the header)
-description: DREAM Project
+description: DREAM Project Research in Lydia Chilton's lab at Columbia on human–AI interaction. I build systems that learn an individual's decision-making and progressively act on their behalf. The core is a domain-agnostic engine: it observes a user's choices and the reasons they give, induces explicit decision policies (condition → action → rationale), and graduates each policy along an autonomy ladder — proposing, then confirming, then acting independently — while demoting any policy the user overrides. When it encounters a situation that is novel or contradicts an existing policy, it flags it for human review rather than silently generalizing from a single event. Learned policies persist and transfer across domains, so the same system adapts to a new coordination problem by swapping a lightweight domain adapter rather than being rebuilt. I evaluate it in LLM multi-agent simulations of everyday coordination, where simulated participants have private motives, misreport, and renege — conditions under which naive automation fails.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,14 +18,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: yourmail@mail.com
+  email: joshua.kung@columbia.edu
   facebook:
   flickr:
   rss: # just type anything here for a working RSS icon
 
 # Your website URL (e.g. http://ajstent.github.io)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://joshuahkung.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
